@@ -1,3 +1,3 @@
 # IBMDataScience
   
-  this needs to be re-done from scratch
+  This needs to be re-done. From scratch.
